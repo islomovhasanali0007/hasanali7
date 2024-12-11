@@ -1,0 +1,12 @@
+.box1{
+    text-transform: none;
+}
+.box2{
+    text-transform: capitalize;
+}
+.box3{
+    text-transform: uppercase;
+}
+.box4{
+text-transform: lowercase;
+}
